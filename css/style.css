@@ -2,7 +2,7 @@ html {
     background-image: url(/resource/hinh-nen-background-hoat-hinh_110638531.jpg);
     background-size: cover;
     background-attachment: fixed;
-    background-repeat: round;
+    background-repeat: non-repeat;
 }
 
 #play {
