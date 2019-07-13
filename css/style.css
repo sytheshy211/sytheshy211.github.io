@@ -1,0 +1,46 @@
+html {
+    background-image: url(/resource/hinh-nen-background-hoat-hinh_110638531.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#play {
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    visibility: visible;
+}
+#play:hover , #play:active > #people {
+    visibility: visible;
+}
+#time {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    visibility: hidden;
+}
+#people {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    visibility: hidden;
+}
+#photo {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    top: 60%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    visibility: hidden;
+}
