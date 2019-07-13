@@ -3,9 +3,15 @@ html {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
+<<<<<<< HEAD
     background-position: center;
     height: 100%;
     width: 100%;  
+=======
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+>>>>>>> 90f6a7cd0737df794cd4c15e9ca74ca2eea8b4b1
 }
 
 #play {
